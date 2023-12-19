@@ -7,7 +7,7 @@
 
 
 ## 1.GPT科普
-![截图1](\img\chatgpt.png)
+![截图1](https://github.com/nobmaste/WeeklyReport/blob/1faec4c028f68103d197a6c465d9bf504eb03c89/dcos/issue-001/img/chatgpt.png)
 - 前段时间研究AIGC开发时发现的一篇帖子，是一篇不错的科普读物。
 - 作者从chatGPT的发展讲起，对比了不同阶段的使用感受，并简单讲述了一些底层原理。
 - 帖子不长，很快就能看完，链接放在这(郭郭:[GPT总结](https://blog.warmplace.cn/post/chatgpt))
