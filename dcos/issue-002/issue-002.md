@@ -5,6 +5,7 @@
 > 日期：2024年1月19日
 > ***
 > 本杂志开源（GitHub:[nobmaste/WeeklyReport ](https://github.com/nobmaste/WeeklyReport)），欢迎提交 issue，投稿或推荐你的项目。
+
 ## 1.铁电材料模拟大脑结构
 ![截图1](https://github.com/nobmaste/WeeklyReport/blob/main/dcos/issue-002/img/shutu.jpg)
 斯坦福大学研究团队提出了一种“纳米晶核”用于模拟神经元突触
