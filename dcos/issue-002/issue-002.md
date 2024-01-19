@@ -2,7 +2,7 @@
 
  
 > 作者：mlm
-> 日期：2024年1月日
+> 日期：2024年1月19日
 > ***
 > 本杂志开源（GitHub:[nobmaste/WeeklyReport ](https://github.com/nobmaste/WeeklyReport)），欢迎提交 issue，投稿或推荐你的项目。
 ## 1.铁电材料模拟大脑结构
