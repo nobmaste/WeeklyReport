@@ -15,3 +15,20 @@
 ## 2. 泰勒展开的工程应用
 四轴小马哥的博文，内容很简单。在控制算法中需要运算反三角函数，一般依赖math库解决计算，但不同MCU的架构不同，所以有时候不想调库时，在误差允许范围内依靠泰勒展开来进行这些计算。<br>
 链接：https://mp.weixin.qq.com/s/iaoWnK55VJp5-Bvl9GXpLA
+## 3. 微信年度报告
+最近看到了一个微信年度报告项目———“留痕”<br>
+![截图2](https://github.com/nobmaste/WeeklyReport/blob/main/dcos/issue-002/img/1.png)
+作者利用python解码电脑上微信聊天记录然后做词云分析<br>
+链接：https://github.com/LC044/WeChatMsg
+## 4. 海报D2C
+![截图3](https://github.com/nobmaste/WeeklyReport/blob/main/dcos/issue-002/img/2.png)
+一款插件，将设计稿导出为 React、Vue、RN、微信小程序代码。<br>
+链接：https://music.163.com/st/seal
+## 5.小波变换
+![截图4](https://github.com/nobmaste/WeeklyReport/blob/main/dcos/issue-002/img/3.png)
+最近学习小波变换时看到的一个视频，虽然讲的是先导部分，但很清楚，催更作者后续<br>
+链接：https://www.bilibili.com/video/BV1tu4y1M7th/?spm_id_from=333.999.0.0
+## 6.电赛方案思路
+![截图4](https://github.com/nobmaste/WeeklyReport/blob/main/dcos/issue-002/img/4.png)
+作者本人也打了两年电赛，当时起步的时候不知道有什么技术，从这里借鉴了很多<br>
+链接：https://www.eetree.cn/doc/detail/2288
